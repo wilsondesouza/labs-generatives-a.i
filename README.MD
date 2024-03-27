@@ -1,16 +1,11 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+
 
 # Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 Todos os prompts seguem abaixo.
 
-<a href="#" title="Ler eBook"> 📕Clique aqui para ler</a>
+<a href="https://github.com/wilsondesouza/create-ebook-python/blob/main/output/ebook-python-paradigmas.pdf" title="Ler eBook"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 

@@ -6,10 +6,10 @@ Além da utilização do Claud 3 Haiku, através da AWS Bedrock, também foram u
 
 ## 🛠️ Ferramentas Utilizadas
 
-[Claude](https://docs.aws.amazon.com/bedrock/)
-[Aria](https://www.opera.com/pt-br/features/aria)
-[Copilot](https://www.bing.com/chat?)
-[ChatGPT](https://chatgpt.com/)
+ - [Claude](https://docs.aws.amazon.com/bedrock/)
+ - [Aria](https://www.opera.com/pt-br/features/aria)
+ - [Copilot](https://www.bing.com/chat?)
+ - [ChatGPT](https://chatgpt.com/)
 
 ---
 

@@ -1,6 +1,6 @@
 🏋️‍♂️ Assistente de Personal Trainer - Prompts e Resultados
 
-Além da utilização do Claud 3 Haiku, através da AWS Bedrock, também foram utilizadas outras IAs generativas para efeito de comparação entre cada uma.
+Além da utilização do Claud 3.5 Sonnet, através da AWS Bedrock, também foram utilizadas outras IAs generativas para efeito de comparação entre cada uma.
 
 ---
 

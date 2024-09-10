@@ -58,6 +58,67 @@ Cite também a importância de um bom sono nortuno.
 
 ---
 
+### Sonnet 3.5
+
+```
+Com base nas variáveis fornecidas, vamos criar um treino ideal para um indivíduo mesomorfo, com uma periodização de 5 dias e foco em exercícios funcionais, maquinário e peso livre.
+
+Treino ABCDE para Mesomorfo:
+
+Dia A - Peito e Tríceps
+1. Supino reto com barra (peso livre) - 4 séries de 8-10 repetições
+2. Crucifixo na máquina (maquinário) - 3 séries de 10-12 repetições
+3. Flexão de braço funcional (funcional) - 3 séries até a falha
+4. Tríceps na polia (maquinário) - 3 séries de 10-12 repetições
+5. Tríceps francês com halteres (peso livre) - 3 séries de 10-12 repetições
+
+Dia B - Costas e Bíceps
+1. Barra fixa (funcional) - 4 séries até a falha
+2. Remada curvada com barra (peso livre) - 4 séries de 8-10 repetições
+3. Puxada na frente na máquina (maquinário) - 3 séries de 10-12 repetições
+4. Rosca direta com barra (peso livre) - 3 séries de 10-12 repetições
+5. Rosca martelo com halteres (peso livre) - 3 séries de 10-12 repetições
+
+Dia C - Pernas
+1. Agachamento livre (peso livre) - 4 séries de 8-10 repetições
+2. Leg press 45º (maquinário) - 4 séries de 10-12 repetições
+3. Afundo com halteres (peso livre) - 3 séries de 12 repetições por perna
+4. Cadeira extensora (maquinário) - 3 séries de 12-15 repetições
+5. Panturrilha no aparelho (maquinário) - 4 séries de 15-20 repetições
+
+Dia D - Ombros e Abdômen
+1. Desenvolvimento com barra (peso livre) - 4 séries de 8-10 repetições
+2. Elevação lateral com halteres (peso livre) - 3 séries de 10-12 repetições
+3. Remada alta na polia (maquinário) - 3 séries de 10-12 repetições
+4. Prancha (funcional) - 3 séries de 30-60 segundos
+5. Crunch na máquina (maquinário) - 3 séries de 15-20 repetições
+
+Dia E - Treino Funcional e HIIT
+1. Burpees - 4 séries de 10 repetições
+2. Kettlebell swing - 4 séries de 15 repetições
+3. Mountain climbers - 4 séries de 30 segundos
+4. Box jumps - 4 séries de 10 repetições
+5. HIIT na esteira: 30 segundos sprint, 30 segundos descanso - 10 minutos total
+
+Dicas de alimentação para mesomorfos:
+
+1. Mantenha uma dieta equilibrada com proporções adequadas de proteínas, carboidratos e gorduras saudáveis.
+2. Consuma proteínas magras em cada refeição para auxiliar na construção e manutenção muscular.
+3. Opte por carboidratos complexos para fornecer energia sustentada ao longo do dia.
+4. Inclua frutas e vegetais variados para garantir uma boa ingestão de vitaminas e minerais.
+5. Hidrate-se adequadamente, bebendo água regularmente ao longo do dia.
+6. Considere suplementação de whey protein para auxiliar na recuperação muscular pós-treino.
+
+Importância do sono:
+
+Um sono noturno adequado e de qualidade é fundamental para o sucesso do seu programa de treino e para sua saúde geral.
+Durante o sono, o corpo libera hormônios importantes para o crescimento muscular e a recuperação, como o hormônio do crescimento.
+Além disso, um bom sono ajuda a regular o apetite, melhora o foco e a disposição para os treinos, e contribui para um melhor controle do peso.
+Procure dormir de 7 a 9 horas por noite em um ambiente escuro, silencioso e confortável para maximizar os benefícios do seu esforço no ginásio e sua saúde geral.
+```
+
+---
+
 ### Aria
 
 ```
@@ -133,11 +194,8 @@ Faça refeições regulares e balanceadas.
 
 A Importância do Sono
 Dormir bem é essencial para o crescimento muscular, recuperação do corpo e para um bom desempenho nos treinos. Procure dormir de 7 a 9 horas por noite. 😴
-
 Lembre-se que este é um treino personalizado para você, mesomorfo, que busca um treino funcional, com maquinário e peso livre em 5 dias.
-
 Para melhores resultados, consulte um profissional de saúde para avaliar suas necessidades individuais.
-
 Bons treinos! 💪
 ```
 
@@ -194,7 +252,6 @@ Hidratação: Beba bastante água ao longo do dia para manter-se hidratado e oti
 Importância do Sono
 Um bom sono noturno é crucial para a recuperação muscular e o desempenho geral. 
 Tente dormir entre 7-9 horas por noite para garantir que seu corpo tenha tempo suficiente para se recuperar e crescer.
-
 Se precisar de mais alguma coisa ou tiver dúvidas, estou aqui para ajudar!
 ```
 

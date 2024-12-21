@@ -1,0 +1,69 @@
+
+.credit-card {
+    display: grid
+;
+    justify-items: center;
+    align-items: center;
+}
+
+/* Container for the input field and card icon */
+.InputContainer {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(8, 8, 8);
+    overflow: hidden;
+    padding: 0px 5px 0px 15px;
+    border-radius: 16px;
+    background: linear-gradient(black, black) padding-box,
+		linear-gradient(10deg, rgba(111, 191, 103, 1) 10%, rgba(171, 199, 52, 1) 37%, rgba(231, 210, 13, 1) 64%, rgba(255, 214, 0, 1) 90%) border-box;
+	border: 2px solid transparent;
+}
+
+/* Styles for the input field */
+.input {
+    width: 170px;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 0.9em;
+    caret-color: rgb(255, 81, 0);
+    background-color: rgb(8, 8, 8);
+    font-weight: 600;
+    color: lightgray;
+}
+
+/* Container for the card icon */
+.visaCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 40px;
+    height: 25px;
+    background-color: rgb(8, 8, 8);
+    pointer-events: none;
+    border: 1px solid rgba(255, 255, 255, 0.068);
+    border-radius: 7px;
+}
+
+/* Styles for the SVG inside the card icon container */
+.visaCard svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Styles for the card icon container when empty */
+.visaCard.empty {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Styles for the card type name text */
+.cardTypeName {
+    margin-left: 10px;
+    font-size: 0.9em;
+    color: white;
+    font-weight: 600;
+}

@@ -1,0 +1,33 @@
+/* Description: General Styles CSS file */
+
+/*****************************************
+Table Of Contents:
+- General Styles
+
+/**************************/
+/*     General Styles     */
+/**************************/
+
+:root {
+    background-color: #000;
+    color: #fff
+}
+
+div{
+    display: grid;
+    justify-items: center;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr 5.8fr 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+
+@media (min-height: 838px) {
+    .parent {
+        grid-template-rows: 1fr 6.7fr 1fr;
+    }
+}

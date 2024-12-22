@@ -1,6 +1,10 @@
 # 💳 Validador de Cartão de Crédito
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+<div align="center">
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge) [![](http://img.shields.io/static/v1?label=ACESSAR&message=PROJETO&color=blue&style=for-the-badge)](https://credit-cardvalidator.netlify.app/)
+
+</div>
 
 ## 📋 Descrição do Projeto
 
